@@ -9,26 +9,31 @@ Download and import the yymps file as a package.
 ## Examples:
 
 Loop through items in an array
-``
+```gml
 var _last_item_index = 7;
 
 s_loop_value(7 + 2,0,7);
 
 // returns
 1
-``
+```
 
 Calculate degrees
-``s_loop_value(-45,0,359)
+
+```gml
+s_loop_value(-45,0,359)
 
 // returns
-315``
+315
+```
 
 
 Hours on a clock
-``s_loop_value(13,1,12)
+```gml
+s_loop_value(13,1,12)
 
 //returns
-1``
+1
+```
 
 
