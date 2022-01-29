@@ -4,7 +4,7 @@
 A simple function for looping values between two limits.
 
 ## Installation
-Download and import the yymps file as a package.
+[Download](s_loop_value.yymps) and import the yymps file as a package.
 
 ## Examples:
 
