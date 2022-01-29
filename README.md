@@ -1,4 +1,4 @@
-# gms_loop_value
+# s_loop_value
 
 `s_loop_value(_val,_min,_max)`
 A simple function for looping values between two limits.
