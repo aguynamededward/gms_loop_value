@@ -12,7 +12,7 @@ Loop through items in an array
 ```gml
 var _last_item_index = 7;
 
-s_loop_value(7 + 2,0,7);
+s_loop_value(_last_item_index + 2,0,7);
 
 // returns
 1
